@@ -2,7 +2,7 @@
 14/03/2017
 
 Sumbission rules:
-
+its ok
 all files should be in the github assignment repository.
 you should include a link to Firebase url in README.md file.
 
